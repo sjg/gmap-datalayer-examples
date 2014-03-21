@@ -1,0 +1,5268 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "name": "Abbey Road",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "750"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0035303, 51.5323936]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Abbey Wood",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.1204054, 51.4910933]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Acton Central",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2628326, 51.5087091]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Acton Main Line",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2671552, 51.5171077]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Acton Town",
+      "tfl_statid": "1",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "500"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2799166, 51.5026436]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Addington Village",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0324952, 51.3562074]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Addiscombe",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.073267, 51.3799364]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Aldgate East",
+      "tfl_statid": "3",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "503"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0718766, 51.5151472]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Aldgate",
+      "tfl_statid": "2",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "502"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0757156, 51.5140964]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "All Saints",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "850"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0130712, 51.510716]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Alperton",
+      "tfl_statid": "5",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "505"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2994548, 51.5405548]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Amersham",
+      "tfl_statid": "6",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "506"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.6084687, 51.6742066]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Ampere Way",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1236871, 51.3823591]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Anerley",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.065798, 51.4122641]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Angel",
+      "tfl_statid": "7",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "507"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.10613, 51.5318215]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Archway",
+      "tfl_statid": "8",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "508"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1347453, 51.565371]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Arena",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0582529, 51.3916054]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Arnos Grove",
+      "tfl_statid": "9",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "509"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1332688, 51.6164756]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Arsenal",
+      "tfl_statid": "10",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "510"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1080993, 51.5578241]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Avenue Road",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0489996, 51.407045]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Baker Street",
+      "tfl_statid": "11",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "511"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.155512, 51.5225008]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Balham",
+      "tfl_oy5altids": ["Balham NR"],
+      "tfl_statid": "12",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "512"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1529879, 51.4431643]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Bank",
+      "tfl_statid": "13",
+      "networks": "(2:Tube,DLR)",
+      "tfl_nlcid": "513"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0889896, 51.5134495]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Barbican",
+      "tfl_statid": "14",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "501"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0977924, 51.520215]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Barking",
+      "tfl_statid": "15",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "514"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0812006, 51.5395149]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Barkingside",
+      "tfl_statid": "16",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "515"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.08858, 51.5856497]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Barons Court",
+      "tfl_statid": "17",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "516"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2137488, 51.4902598]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Bayswater",
+      "tfl_statid": "18",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "517"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1878369, 51.512333]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Beckenham Junction",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0261587, 51.4107184]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Beckenham Road",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0431568, 51.4096366]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Beckton Park",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "891"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0549757, 51.5087258]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Beckton",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "895"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0610526, 51.5142785]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Becontree",
+      "tfl_statid": "21",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "518"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.1272689, 51.5403235]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Beddington Lane",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1428463, 51.3894523]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Belgrave Walk",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1783569, 51.4009759]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Belsize Park",
+      "tfl_statid": "22",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "519"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1647042, 51.5502751]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Bermondsey",
+      "tfl_statid": "23",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "787"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0637381, 51.4977297]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Bethnal Green",
+      "tfl_statid": "24",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "520"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0554885, 51.5274732]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Birkbeck",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0558016, 51.4037479]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Blackfriars",
+      "tfl_statid": "25",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "521"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.10314, 51.5117741]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Blackhorse Lane",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0704624, 51.3848201]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Blackhorse Road",
+      "tfl_statid": "26",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "522"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0413390, 51.5866356]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Blackwall",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "882"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0072261, 51.507945]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Bond Street",
+      "tfl_statid": "28",
+      "networks": "(2:Tube,Crossrail)",
+      "tfl_nlcid": "524"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1489861, 51.5143254]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Borough",
+      "tfl_statid": "29",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "525"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.09341, 51.5010936]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Boston Manor",
+      "tfl_statid": "30",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "526"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3247334, 51.4957483]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Bounds Green",
+      "tfl_statid": "31",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "527"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1241345, 51.6070658]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Bow Church",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "851"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0209108, 51.5277293]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Bow Road",
+      "tfl_statid": "33",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "528"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0248415, 51.5268725]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Brent Cross",
+      "tfl_statid": "34",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "529"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2135533, 51.5767002]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Brentwood",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.2998338, 51.6135354]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Brixton",
+      "tfl_statid": "35",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "778"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1148720, 51.4626062]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Brockley",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0374688, 51.4646382]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Bromley-by-Bow",
+      "tfl_oy5altids": ["Bromley By Bow"],
+      "tfl_statid": "36",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "530"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0115851, 51.5247366]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Brondesbury Park",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.210148, 51.5406963]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Brondesbury",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2023235, 51.5451228]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Buckhurst Hill",
+      "tfl_statid": "37",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "531"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0467968, 51.6259458]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Burnham",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.6463527, 51.5233997]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Burnt Oak",
+      "tfl_statid": "38",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "532"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2639522, 51.6028449]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Bushey",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3851974, 51.6457492]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Caledonian Road & Barnsbury",
+      "tfl_oy5altids": ["Caledonian Rd&B'sby"],
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1149882, 51.5436071]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Caledonian Road",
+      "tfl_statid": "39",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "534"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1183672, 51.5483734]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Camden Road",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1394643, 51.5419491]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Camden Town",
+      "tfl_statid": "40",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "535"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1425566, 51.5389404]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Canada Water",
+      "tfl_statid": "41",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "788"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0502080, 51.4980023]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Canary Wharf (Crossrail)",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0174658, 51.5062841]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Canary Wharf (DLR)",
+      "tfl_oy5altids": ["Canary Wharf DLR"],
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "842"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0208973, 51.5051718]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Canary Wharf",
+      "tfl_oy5altids": ["Canary Wharf E2"],
+      "tfl_statid": "42",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "852"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0186119, 51.5035406]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Canning Town",
+      "tfl_statid": "43",
+      "networks": "(2:Tube,DLR)",
+      "tfl_nlcid": "884"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0081707, 51.5140396]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Cannon Street",
+      "tfl_statid": "44",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "536"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0903232, 51.5113913]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Canonbury",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0926833, 51.54868]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Canons Park",
+      "tfl_statid": "45",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "537"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2947443, 51.6077565]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Carpenders Park",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3856744, 51.628407]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Centrale",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1037744, 51.3758760]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Chadwell Heath",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.1290599, 51.5679390]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Chalfont & Latimer",
+      "tfl_statid": "46",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "539"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.5608204, 51.6680418]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Chalk Farm",
+      "tfl_statid": "47",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "540"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.15347, 51.5442018]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Chancery Lane",
+      "tfl_statid": "48",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "541"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1121213, 51.5181116]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Charing Cross",
+      "tfl_statid": "49",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "718"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1273618, 51.5073354]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Chesham",
+      "tfl_statid": "50",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "543"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.61093, 51.7053895]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Chigwell",
+      "tfl_statid": "51",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "544"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0747482, 51.6178265]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Chiswick Park",
+      "tfl_statid": "52",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "545"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2681215, 51.4945794]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Chorleywood",
+      "tfl_statid": "53",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "546"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.5183558, 51.6541809]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Church Street",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1040293, 51.3735906]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Clapham Common",
+      "tfl_statid": "54",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "547"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1375885, 51.4619861]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Clapham High Street",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1323919, 51.4655078]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Clapham Junction",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1719673, 51.4648002]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Clapham North",
+      "tfl_statid": "55",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "548"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1298984, 51.4651178]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Clapham South",
+      "tfl_statid": "56",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "549"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1475842, 51.4527629]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Cockfosters",
+      "tfl_statid": "57",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "550"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1493503, 51.6516051]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Colindale",
+      "tfl_statid": "58",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "551"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2497833, 51.5953491]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Colliers Wood",
+      "tfl_statid": "59",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "552"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1780905, 51.4181150]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Coombe Lane",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0600865, 51.3597826]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Covent Garden",
+      "tfl_statid": "60",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "553"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1241961, 51.51306]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Crossharbour",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "854"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0144681, 51.4958364]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Crouch Hill",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1171954, 51.5712785]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Croxley",
+      "tfl_statid": "62",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "554"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4416669, 51.6471491]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Crystal Palace",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0722046, 51.417945]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Custom House",
+      "tfl_oy5altids": ["Custom House DLR"],
+      "tfl_statid": null,
+      "networks": "(2:DLR,Crossrail)",
+      "tfl_nlcid": "887"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0263723, 51.5096843]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Cutty Sark",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "879"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0107208, 51.4817413]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Cyprus",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "893"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0639712, 51.5084324]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Dagenham East",
+      "tfl_statid": "66",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "555"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.1656415, 51.54416]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Dagenham Heathway",
+      "tfl_statid": "67",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "556"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.1476999, 51.5416722]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Dalston Junction",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0749077, 51.5461354]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Dalston Kingsland",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0758235, 51.5481728]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Debden",
+      "tfl_statid": "68",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "557"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0835732, 51.6452929]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Denmark Hill",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0890056, 51.4681606]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Deptford Bridge",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "897"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.022394, 51.47411]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Devons Road",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "867"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0175011, 51.5224747]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Dollis Hill",
+      "tfl_statid": "71",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "558"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2392290, 51.5520796]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Dundonald Road",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2076175, 51.4175075]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Ealing Broadway",
+      "tfl_statid": "72",
+      "networks": "(2:Tube,Crossrail)",
+      "tfl_nlcid": "560"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3015434, 51.514785]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Ealing Common",
+      "tfl_statid": "73",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "561"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2881812, 51.5099066]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Earl's Court",
+      "tfl_oy5altids": ["Earls Court"],
+      "tfl_statid": "74",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "562"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1941681, 51.4914817]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "East Acton",
+      "tfl_statid": "75",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "563"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2475722, 51.5168691]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "East Croydon",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0927131, 51.3748080]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "East Finchley",
+      "tfl_statid": "76",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "565"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1652186, 51.5875662]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "East Ham",
+      "tfl_statid": "77",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "566"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0520114, 51.5392428]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "East India",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "883"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.002259, 51.5093856]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "East Putney",
+      "tfl_statid": "79",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "567"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2110618, 51.4590694]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Eastcote",
+      "tfl_statid": "80",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "564"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.397075, 51.5766078]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Edgware Road (Bakerloo)",
+      "tfl_oy5altids": ["Edgware Road B"],
+      "tfl_statid": "83",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "774"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1703391, 51.5204828]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Edgware Road",
+      "tfl_oy5altids": ["Edgware Road M"],
+      "tfl_statid": "82",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "569"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1680877, 51.5197314]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Edgware",
+      "tfl_statid": "81",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "568"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2755037, 51.6139893]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Elephant & Castle",
+      "tfl_statid": "84",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "570"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.100545, 51.4953833]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Elm Park",
+      "tfl_statid": "85",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "571"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.1974636, 51.5496426]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Elmers End",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0496933, 51.3982491]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Elverson Road",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "898"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0167864, 51.4690957]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Embankment",
+      "tfl_statid": "87",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "542"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1225765, 51.507014]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Emirates Greenwich Peninsula",
+      "tfl_statid": null,
+      "networks": "(1:emiratesairline)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0082113, 51.4996865]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Emirates Royal Docks",
+      "tfl_statid": null,
+      "networks": "(1:emiratesairline)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0180855, 51.5077665]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Epping",
+      "tfl_statid": "88",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "572"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.1145279, 51.6941769]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Euston Square",
+      "tfl_statid": "91",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "575"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1355339, 51.525684]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Euston",
+      "tfl_oy5altids": ["Euston NR"],
+      "tfl_statid": "90",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "574"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1342856, 51.5284323]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Fairlop",
+      "tfl_statid": "92",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "576"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0911132, 51.5959492]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Farringdon",
+      "tfl_statid": "93",
+      "networks": "(2:Tube,Crossrail)",
+      "tfl_nlcid": "577"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1046657, 51.520207]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Fieldway",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0242146, 51.3509698]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Finchley Central",
+      "tfl_statid": "94",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "578"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1919440, 51.6006831]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Finchley Road & Frognal",
+      "tfl_oy5altids": ["Finchley Rd & Frognal"],
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1839537, 51.54999]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Finchley Road",
+      "tfl_statid": "95",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "579"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1808838, 51.5473774]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Finsbury Park",
+      "tfl_statid": "96",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "580"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1063375, 51.5646385]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Forest Gate",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0241216, 51.5495497]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Forest Hill",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0528341, 51.4397749]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Fulham Broadway",
+      "tfl_statid": "97",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "581"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1952809, 51.4801841]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Gallions Reach",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "894"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0717711, 51.5089643]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Gants Hill",
+      "tfl_statid": "99",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "582"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0663506, 51.576609]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "George Street",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0987101, 51.3739312]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Gidea Park",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.205288, 51.5816157]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Gloucester Road",
+      "tfl_statid": "100",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "583"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1834718, 51.4944383]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Golders Green",
+      "tfl_statid": "101",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "584"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1940862, 51.5723973]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Goldhawk Road",
+      "tfl_statid": "102",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "585"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.226674, 51.5019467]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Goodge Street",
+      "tfl_statid": "103",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "586"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1343582, 51.520515]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Goodmayes",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.1109966, 51.5655015]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Gospel Oak",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1521529, 51.5556773]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Grange Hill",
+      "tfl_statid": "104",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "587"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0925161, 51.613121]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Gravel Hill",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0428615, 51.3545293]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Great Portland Street",
+      "tfl_oy5altids": ["Great Portland St"],
+      "tfl_statid": "105",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "588"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1439209, 51.5238366]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Green Park",
+      "tfl_statid": "106",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "590"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1431186, 51.5065574]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Greenford",
+      "tfl_statid": "107",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "589"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3448163, 51.5421877]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Greenwich",
+      "tfl_oy5altids": ["Greenwich DLR"],
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "928"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0154873, 51.4780422]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Gunnersbury",
+      "tfl_statid": "109",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "591"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2753797, 51.4916143]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hackney Central",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0573172, 51.5470627]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hackney Wick",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0248343, 51.543413]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Haggerston",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0755378, 51.5389293]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hainault",
+      "tfl_statid": "110",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "592"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0934718, 51.6037095]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hammersmith (H&C)",
+      "tfl_oy5altids": ["Hammersmith M"],
+      "tfl_statid": "304",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "773"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2250828, 51.4940963]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hammersmith",
+      "tfl_oy5altids": ["Hammersmith D"],
+      "tfl_statid": "111",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "593"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2233309, 51.4921224]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hampstead Heath",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1653352, 51.555246]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hampstead",
+      "tfl_statid": "112",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "594"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1781957, 51.5563941]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hanger Lane",
+      "tfl_statid": "113",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "595"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2932869, 51.5302977]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hanwell",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3385958, 51.5118086]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Harlesden",
+      "tfl_statid": "114",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "596"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2579537, 51.53637]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Harold Wood",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.2330061, 51.5926811]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Harringay Green Lanes",
+      "tfl_oy5altids": ["Harringay Green Las"],
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.097821, 51.5772423]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Harrington Road",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0604811, 51.399663]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Harrow & Wealdstone",
+      "tfl_oy5altids": ["Harrow Wealdstone"],
+      "tfl_statid": "115",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "597"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3353988, 51.5923213]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Harrow-on-the-Hill",
+      "tfl_oy5altids": ["Harrow On The Hill"],
+      "tfl_statid": "116",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "598"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3363047, 51.5792376]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hatch End",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3686133, 51.609464]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hatton Cross",
+      "tfl_statid": "117",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "779"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4231164, 51.4667205]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hayes & Harlington",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4196237, 51.5029698]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Headstone Lane",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3566318, 51.6024175]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Heathrow Terminal 4",
+      "tfl_oy5altids": ["Heathrow Term 4"],
+      "tfl_statid": "118",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "781"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4454346, 51.458659]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Heathrow Terminal 5",
+      "tfl_oy5altids": ["Heathrow Term 5"],
+      "tfl_statid": "306",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "783"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4901043, 51.4725477]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Heathrow Terminals 1 2 3",
+      "tfl_oy5altids": ["Heathrow Terms 123"],
+      "tfl_statid": "119",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "780"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4550013, 51.4725048]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hendon Central",
+      "tfl_statid": "120",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "601"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2260987, 51.5831328]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Heron Quays",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "855"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0214372, 51.5032616]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "High Barnet",
+      "tfl_statid": "122",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "602"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1948159, 51.6509324]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "High Street Kensington",
+      "tfl_oy5altids": ["High Street Kens"],
+      "tfl_statid": "123",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "605"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.19266, 51.5009411]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Highbury & Islington",
+      "tfl_oy5altids": ["Highbury"],
+      "tfl_statid": "124",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "603"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1035253, 51.5462667]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Highgate",
+      "tfl_statid": "125",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "604"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.145782, 51.5776446]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hillingdon",
+      "tfl_statid": "126",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "606"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4501984, 51.5537254]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Holborn",
+      "tfl_statid": "127",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "607"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1201771, 51.5176150]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Holland Park",
+      "tfl_statid": "128",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "608"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2056421, 51.5072766]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Holloway Road",
+      "tfl_statid": "129",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "609"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1130087, 51.5527302]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Homerton",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0425037, 51.54707]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Honor Oak Park",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0453612, 51.4500132]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hornchurch",
+      "tfl_statid": "130",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "610"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.2185416, 51.5540051]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hounslow Central",
+      "tfl_statid": "131",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "611"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3664130, 51.4713061]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hounslow East",
+      "tfl_statid": "132",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "612"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3563131, 51.4732284]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hounslow West",
+      "tfl_statid": "133",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "613"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3864471, 51.4735254]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hoxton",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0756251, 51.53147]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Hyde Park Corner",
+      "tfl_statid": "134",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "614"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1525574, 51.5029607]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Ickenham",
+      "tfl_statid": "135",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "615"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4420561, 51.5619724]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Ilford",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0699171, 51.5590486]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Imperial Wharf",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1831353, 51.4752871]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Island Gardens",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "856"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0102937, 51.4879161]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Iver",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.5065445, 51.5086434]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Kennington",
+      "tfl_statid": "137",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "616"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1055528, 51.4888179]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Kensal Green",
+      "tfl_statid": "138",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "617"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2245959, 51.530573]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Kensal Rise",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2202256, 51.5344081]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Kensington (Olympia)",
+      "tfl_oy5altids": ["Kensington Olympia"],
+      "tfl_statid": "139",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "618"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2095926, 51.4975337]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Kentish Town West",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1467504, 51.5470755]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Kentish Town",
+      "tfl_statid": "140",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "619"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1407401, 51.5503103]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Kenton",
+      "tfl_statid": "141",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "620"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.31662, 51.5815305]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Kew Gardens",
+      "tfl_statid": "142",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "621"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2850131, 51.4770773]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Kilburn High Road",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1914950, 51.5376658]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Kilburn Park",
+      "tfl_statid": "144",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "623"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1941339, 51.5351545]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Kilburn",
+      "tfl_statid": "143",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "622"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2052862, 51.5470247]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "King George V",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "523"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0621579, 51.5019516]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "King Henry's Drive",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0203926, 51.3455072]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "King's Cross St. Pancras",
+      "tfl_oy5altids": ["Kings Cross", "Kings Cross M", "Kings Cross T", "St Pancras International"],
+      "tfl_statid": "145",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "625"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1229435, 51.5306048]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Kingsbury",
+      "tfl_statid": "146",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "624"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2786225, 51.5847165]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Knightsbridge",
+      "tfl_statid": "147",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "626"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1605916, 51.5016056]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Ladbroke Grove",
+      "tfl_statid": "148",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "627"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2109422, 51.5172681]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Lambeth North",
+      "tfl_statid": "149",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "628"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1122875, 51.4988864]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Lancaster Gate",
+      "tfl_statid": "150",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "629"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1751449, 51.5118712]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Langdon Park",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "853"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0141129, 51.51514]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Langley",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.5412104, 51.5079467]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Latimer Road",
+      "tfl_statid": "151",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "630"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2179095, 51.5133967]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Lebanon Road",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0845004, 51.3751488]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Leicester Square",
+      "tfl_statid": "152",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "631"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1284896, 51.5112227]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Lewisham",
+      "tfl_oy5altids": ["Lewisham DLR"],
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "940"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0129099, 51.4647141]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Leyton Midland Road",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0072681, 51.5695322]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Leyton",
+      "tfl_statid": "154",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "632"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0054072, 51.5566313]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Leytonstone High Road",
+      "tfl_oy5altids": ["Leytonstone High Rd"],
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0077122, 51.5639001]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Leytonstone",
+      "tfl_statid": "155",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "633"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0084026, 51.5685814]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Limehouse",
+      "tfl_oy5altids": ["Limehouse DLR", "Limehouse NR"],
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "862"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0396872, 51.5123722]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Liverpool Street",
+      "tfl_oy5altids": ["Liverpool St NR", "Liverpool St WAGN TOC Gates"],
+      "tfl_statid": "157",
+      "networks": "(2:Tube,Crossrail)",
+      "tfl_nlcid": "634"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0832130, 51.5173000]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Lloyd Park",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0806955, 51.3641661]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "London Bridge",
+      "tfl_statid": "158",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "635"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0896349, 51.5050202]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "London City Airport",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "533"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0480118, 51.5036755]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Loughton",
+      "tfl_statid": "159",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "636"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0552549, 51.6413606]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Maida Vale",
+      "tfl_statid": "160",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "637"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1857746, 51.5298025]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Maidenhead",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.7227575, 51.5183194]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Manor House",
+      "tfl_statid": "161",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "638"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0961856, 51.5704907]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Manor Park",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0457816, 51.5524483]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Mansion House",
+      "tfl_statid": "162",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "639"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0937541, 51.5119105]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Marble Arch",
+      "tfl_statid": "163",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "640"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1578355, 51.5135398]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Maryland",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0062276, 51.5461988]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Marylebone",
+      "tfl_oy5altids": ["Marylebone NR"],
+      "tfl_statid": "164",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "641"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1632215, 51.522276]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Merton Park",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2013863, 51.4137571]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Mile End",
+      "tfl_statid": "165",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "642"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0334449, 51.5253563]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Mill Hill East",
+      "tfl_statid": "166",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "643"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2101506, 51.60825]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Mitcham Junction",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1572974, 51.3926416]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Mitcham",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1711376, 51.3975557]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Monument",
+      "tfl_statid": null,
+      "networks": "(1:Tube)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0864765, 51.5107259]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Moor Park",
+      "tfl_statid": "168",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "646"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4322344, 51.6297741]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Moorgate",
+      "tfl_statid": "169",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "645"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0882901, 51.5181197]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Morden Road",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.192912, 51.4088801]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Morden",
+      "tfl_statid": "170",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "647"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1947337, 51.4023455]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Mornington Crescent",
+      "tfl_statid": "171",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "648"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1385393, 51.5343579]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Mudchute",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "857"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0149536, 51.4916977]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Neasden",
+      "tfl_statid": "173",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "649"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2499630, 51.5541682]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "New Addington",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0173388, 51.3424955]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "New Cross Gate",
+      "tfl_statid": "175",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.040267, 51.4754327]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "New Cross",
+      "tfl_statid": "174",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0323411, 51.4766310]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Newbury Park",
+      "tfl_statid": "176",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "650"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0899473, 51.575598]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "North Acton",
+      "tfl_statid": "177",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "653"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2597136, 51.5236047]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "North Ealing",
+      "tfl_statid": "178",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "654"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2885356, 51.5176946]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "North Greenwich",
+      "tfl_statid": "179",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "789"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0038848, 51.5000936]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "North Harrow",
+      "tfl_statid": "180",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "656"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3627975, 51.5849996]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "North Wembley",
+      "tfl_statid": "181",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "659"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3038748, 51.5624059]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Northfields",
+      "tfl_statid": "182",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "655"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3131623, 51.4996035]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Northolt",
+      "tfl_statid": "183",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "657"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.369071, 51.5483908]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Northwick Park",
+      "tfl_statid": "184",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "660"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3177770, 51.5784882]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Northwood Hills",
+      "tfl_statid": "186",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "662"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4089628, 51.6003649]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Northwood",
+      "tfl_statid": "185",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "661"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4237294, 51.6107855]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Norwood Junction",
+      "tfl_oy5altids": ["Norwood Junction SR"],
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0746248, 51.3971534]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Notting Hill Gate",
+      "tfl_statid": "187",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "663"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1960946, 51.5091997]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Oakwood",
+      "tfl_statid": "188",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "664"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1314852, 51.6473767]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Old Street",
+      "tfl_statid": "189",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "665"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0875417, 51.5256283]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Osterley",
+      "tfl_statid": "190",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "667"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3522965, 51.4811241]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Oval",
+      "tfl_statid": "191",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "668"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1123685, 51.4818291]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Oxford Circus",
+      "tfl_statid": "192",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "669"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1420802, 51.5153078]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Paddington (Praed St)",
+      "tfl_statid": null,
+      "networks": "(1:Tube)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1744907, 51.5159547]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Paddington",
+      "tfl_oy5altids": ["Paddington FGW"],
+      "tfl_statid": "193",
+      "networks": "(2:Tube,Crossrail)",
+      "tfl_nlcid": "670"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1792041, 51.5172769]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Park Royal",
+      "tfl_statid": "194",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "671"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2839552, 51.5265228]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Parsons Green",
+      "tfl_statid": "195",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "672"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2010872, 51.4753024]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Peckham Rye",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0703864, 51.4694495]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Penge West",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0606364, 51.4174776]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Perivale",
+      "tfl_statid": "196",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "673"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3235798, 51.5367397]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Phipps Bridge",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1821062, 51.4033315]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Piccadilly Circus",
+      "tfl_statid": "197",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "674"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1334419, 51.5099588]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Pimlico",
+      "tfl_statid": "198",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "776"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1329542, 51.4888907]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Pinner",
+      "tfl_statid": "199",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "675"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3808098, 51.5927136]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Plaistow",
+      "tfl_statid": "200",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "676"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0165714, 51.5311574]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Pontoon Dock",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "538"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0327038, 51.5022144]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Poplar",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "858"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.017478, 51.5078397]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Preston Road",
+      "tfl_statid": "202",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "677"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2951445, 51.5720742]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Prince Regent",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "888"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0336226, 51.5094865]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Pudding Mill Lane",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "859"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0135152, 51.5338443]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Putney Bridge",
+      "tfl_statid": "205",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "678"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2088175, 51.468345]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Queen's Park",
+      "tfl_oy5altids": ["Queens Park"],
+      "tfl_statid": "206",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "680"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2055056, 51.5339928]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Queens Road Peckham",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0569918, 51.4740613]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Queensbury",
+      "tfl_statid": "207",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "679"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2861855, 51.5941727]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Queensway",
+      "tfl_statid": "208",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "681"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1872298, 51.5105003]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Ravenscourt Park",
+      "tfl_statid": "209",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "682"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2357975, 51.4941167]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Rayners Lane",
+      "tfl_statid": "210",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "683"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3712814, 51.5751882]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Redbridge",
+      "tfl_statid": "211",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "684"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.045411, 51.5763628]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Reeves Corner",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1063207, 51.3748865]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Regent's Park",
+      "tfl_oy5altids": ["Regents Park"],
+      "tfl_statid": "212",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "685"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1464996, 51.5234472]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Richmond",
+      "tfl_statid": "213",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "686"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3011844, 51.4633313]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Rickmansworth",
+      "tfl_statid": "214",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "687"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4735825, 51.6401814]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Roding Valley",
+      "tfl_statid": "215",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "688"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0438798, 51.6171057]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Romford",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.1834172, 51.5749104]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Rotherhithe",
+      "tfl_statid": "216",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0521216, 51.5010291]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Royal Albert",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "890"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0456575, 51.5083438]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Royal Oak",
+      "tfl_statid": "218",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "690"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1879890, 51.5190627]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Royal Victoria",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "886"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0179298, 51.5091683]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Ruislip Gardens",
+      "tfl_statid": "221",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "692"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4105946, 51.5607409]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Ruislip Manor",
+      "tfl_statid": "222",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "693"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4123881, 51.5733074]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Ruislip",
+      "tfl_statid": "220",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "691"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4216280, 51.5713727]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Russell Square",
+      "tfl_statid": "223",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "694"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1242034, 51.5231453]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Sandilands",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0777270, 51.3749314]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Seven Kings",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0971011, 51.5638648]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Seven Sisters",
+      "tfl_statid": "224",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "698"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0727884, 51.5834588]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Shadwell",
+      "tfl_oy5altids": ["Shadwell DLR"],
+      "tfl_statid": "225",
+      "networks": "(2:DLR,Overground)",
+      "tfl_nlcid": "860"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0568914, 51.5116925]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Shenfield",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.3306072, 51.63114]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Shepherd's Bush Market",
+      "tfl_oy5altids": ["Shepherd's Bush Mkt"],
+      "tfl_statid": "227",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "775"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2263831, 51.5057965]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Shepherd's Bush",
+      "tfl_oy5altids": ["Shepherd's Bush NR", "Shepherd's Bush Und"],
+      "tfl_statid": "226",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "700"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2171282, 51.5045975]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Shoreditch High Street",
+      "tfl_statid": "228",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "701"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0760711, 51.5232889]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Sloane Square",
+      "tfl_statid": "229",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "702"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1565262, 51.4923483]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Slough",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.5923880, 51.5123673]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Snaresbrook",
+      "tfl_statid": "230",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "703"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0215136, 51.58073]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "South Acton",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2700966, 51.4995731]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "South Ealing",
+      "tfl_statid": "231",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "704"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3071009, 51.5010291]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "South Hampstead",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1788245, 51.5413415]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "South Harrow",
+      "tfl_statid": "232",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "707"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3522098, 51.5646621]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "South Kensington",
+      "tfl_statid": "233",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "708"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1729001, 51.4940371]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "South Kenton",
+      "tfl_statid": "234",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "709"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3083998, 51.5702541]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "South Quay",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "861"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0161934, 51.5000102]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "South Ruislip",
+      "tfl_statid": "236",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "710"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3992884, 51.5570347]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "South Tottenham",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0716808, 51.5805059]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "South Wimbledon",
+      "tfl_statid": "237",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "711"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1921381, 51.4153285]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "South Woodford",
+      "tfl_statid": "238",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "712"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0273908, 51.5919315]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Southall",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3774341, 51.5061901]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Southfields",
+      "tfl_statid": "239",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "705"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2067056, 51.4455252]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Southgate",
+      "tfl_statid": "240",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "706"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1278107, 51.6323335]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Southwark",
+      "tfl_statid": "241",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "784"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1051491, 51.5040801]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "St. James's Park",
+      "tfl_oy5altids": ["St James's Park"],
+      "tfl_statid": "242",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "695"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1335357, 51.499612]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "St. John's Wood",
+      "tfl_oy5altids": ["St Johns Wood"],
+      "tfl_statid": "243",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "696"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1740522, 51.534831]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "St. Paul's",
+      "tfl_oy5altids": ["St Pauls"],
+      "tfl_statid": "244",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "697"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0974819, 51.5149248]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Stamford Brook",
+      "tfl_statid": "245",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "713"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2458347, 51.4949382]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Stanmore",
+      "tfl_statid": "246",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "714"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3030163, 51.619393]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Star Lane",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "889"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0041749, 51.5205593]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Stepney Green",
+      "tfl_statid": "247",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "715"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0467282, 51.5217145]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Stockwell",
+      "tfl_statid": "248",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "716"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1225019, 51.4721799]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Stonebridge Park",
+      "tfl_statid": "249",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "717"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2757003, 51.5438811]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Stratford High Street",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "749"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0003379, 51.5376986]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Stratford International",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "504"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0088611, 51.545763]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Stratford",
+      "tfl_statid": "250",
+      "networks": "(4:Tube,DLR,Overground,Crossrail)",
+      "tfl_nlcid": "719"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0038844, 51.5414940]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Sudbury Hill",
+      "tfl_statid": "251",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "720"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3366819, 51.5569881]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Sudbury Town",
+      "tfl_statid": "252",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "721"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3158034, 51.5508479]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Surrey Quays",
+      "tfl_statid": "253",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0476225, 51.493283]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Swiss Cottage",
+      "tfl_statid": "254",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "723"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1746633, 51.543336]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Syndenham",
+      "tfl_oy5altids": ["Sydenham SR"],
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0543592, 51.4272775]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Taplow",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.681683, 51.523461]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Temple",
+      "tfl_statid": "255",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "724"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.11375, 51.5110618]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Therapia Lane",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1290915, 51.3856974]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Theydon Bois",
+      "tfl_statid": "256",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "725"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.1032103, 51.6717381]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Tooting Bec",
+      "tfl_statid": "257",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "726"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1596505, 51.4355983]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Tooting Broadway",
+      "tfl_statid": "258",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "727"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1681853, 51.4277454]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Tottenham Court Road",
+      "tfl_oy5altids": ["Tottenham Court Rd"],
+      "tfl_statid": "259",
+      "networks": "(2:Tube,Crossrail)",
+      "tfl_nlcid": "728"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1305237, 51.5164674]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Tottenham Hale",
+      "tfl_statid": "260",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "729"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0600881, 51.5883799]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Totteridge & Whetstone",
+      "tfl_oy5altids": ["Totteridge"],
+      "tfl_statid": "261",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "730"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1791528, 51.6303653]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Tower Gateway",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "864"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0744137, 51.5106233]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Tower Hill",
+      "tfl_statid": "263",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "731"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0777502, 51.50981]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Tufnell Park",
+      "tfl_statid": "264",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "733"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1384329, 51.556808]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Turnham Green",
+      "tfl_statid": "265",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "734"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2545301, 51.4951434]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Turnpike Lane",
+      "tfl_statid": "266",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "735"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1028465, 51.5903481]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Upminster Bridge",
+      "tfl_statid": "268",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "737"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.2346938, 51.5583342]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Upminster",
+      "tfl_statid": "267",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "736"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.2530238, 51.5590133]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Upney",
+      "tfl_statid": "269",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "738"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0997276, 51.5382666]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Upper Holloway",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1294854, 51.5636254]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Upton Park",
+      "tfl_statid": "270",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "739"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0344140, 51.5352242]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Uxbridge",
+      "tfl_statid": "271",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "740"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4784113, 51.5464342]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Vauxhall",
+      "tfl_statid": "272",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "777"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1230795, 51.4849716]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Victoria",
+      "tfl_oy5altids": ["Victoria TOCs"],
+      "tfl_statid": "273",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "741"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1432294, 51.4963585]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Waddon Marsh",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1178267, 51.3770030]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Walthamstow Central",
+      "tfl_statid": "274",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "742"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0200100, 51.5829303]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Walthamstow Queens Road",
+      "tfl_oy5altids": ["Walthamstow Qns R"],
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0236961, 51.5815136]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Wandle Park",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1133617, 51.3734813]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Wandsworth Road",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1381794, 51.4696830]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Wanstead Park",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0263338, 51.5517]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Wanstead",
+      "tfl_statid": "275",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "743"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.028621, 51.5756659]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Wapping",
+      "tfl_statid": "276",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0558996, 51.5043220]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Warren Street",
+      "tfl_statid": "277",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "745"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1380995, 51.5246534]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Warwick Avenue",
+      "tfl_statid": "278",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "746"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1840098, 51.5233004]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Waterloo",
+      "tfl_oy5altids": ["Waterloo JLE"],
+      "tfl_statid": "279",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "747"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1143566, 51.5030570]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Watford High Street",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3921593, 51.6523054]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Watford Junction",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3959658, 51.6634586]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Watford",
+      "tfl_oy5altids": ["Watford Met"],
+      "tfl_statid": "280",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "748"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4173727, 51.6573722]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Wellesley Road",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0976165, 51.3756242]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Wembley Central",
+      "tfl_statid": "281",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "751"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2958826, 51.5513950]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Wembley Park",
+      "tfl_statid": "282",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "752"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.28004, 51.5637683]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "West Acton",
+      "tfl_statid": "283",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "753"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2806051, 51.5181964]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "West Brompton",
+      "tfl_statid": "284",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "755"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1954877, 51.4870299]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "West Croydon",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1022990, 51.3784238]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "West Drayton",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4718973, 51.5098129]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "West Ealing",
+      "tfl_statid": null,
+      "networks": "(1:Crossrail)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3204726, 51.5135131]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "West Finchley",
+      "tfl_statid": "285",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "756"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1883013, 51.6094883]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "West Ham",
+      "tfl_statid": "286",
+      "networks": "(2:Tube,DLR)",
+      "tfl_nlcid": "757"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0043990, 51.5283358]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "West Hampstead",
+      "tfl_oy5altids": ["West Hampst'd NL", "West Hampst'd Tlink"],
+      "tfl_statid": "287",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "758"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1908, 51.5468565]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "West Harrow",
+      "tfl_statid": "288",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "759"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.3537652, 51.5793908]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "West India Quay",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "866"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0204041, 51.5069041]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "West Kensington",
+      "tfl_statid": "290",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "760"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2059798, 51.4906966]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "West Ruislip",
+      "tfl_statid": "291",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "762"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.4376618, 51.5696319]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "West Silvertown",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "559"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0221253, 51.5029287]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Westbourne Park",
+      "tfl_statid": "292",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "754"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2015085, 51.5209487]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Westferry",
+      "tfl_statid": null,
+      "networks": "(1:DLR)",
+      "tfl_nlcid": "865"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0267357, 51.5094515]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Westminster",
+      "tfl_statid": "294",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "761"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1259563, 51.5008775]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "White City",
+      "tfl_statid": "295",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "764"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2243858, 51.5120719]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Whitechapel",
+      "tfl_statid": "296",
+      "networks": "(3:Tube,Overground,Crossrail)",
+      "tfl_nlcid": "763"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0601543, 51.5197757]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Willesden Green",
+      "tfl_statid": "297",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "765"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2218548, 51.5493294]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Willesden Junction",
+      "tfl_statid": "298",
+      "networks": "(2:Tube,Overground)",
+      "tfl_nlcid": "766"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2431796, 51.5322487]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Wimbledon Park",
+      "tfl_statid": "300",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "768"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.199632, 51.4344589]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Wimbledon",
+      "tfl_statid": "299",
+      "networks": "(2:Tube,Tramlink)",
+      "tfl_nlcid": "767"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2061642, 51.4216358]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Wood Green",
+      "tfl_statid": "301",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "770"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.1097553, 51.5974188]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Wood Lane",
+      "tfl_statid": "305",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "599"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.2237116, 51.5100739]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Woodford",
+      "tfl_statid": "302",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "769"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0338595, 51.6066548]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Woodgrange Park",
+      "tfl_statid": null,
+      "networks": "(1:Overground)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0445490, 51.5491835]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Woodside Park",
+      "tfl_statid": "303",
+      "networks": "(1:Tube)",
+      "tfl_nlcid": "771"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.18562, 51.6177932]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Woodside",
+      "tfl_statid": null,
+      "networks": "(1:Tramlink)",
+      "tfl_nlcid": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.0656603, 51.3869337]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Woolwich Arsenal",
+      "tfl_oy5altids": ["Woolwich Arsenal DLR"],
+      "tfl_statid": null,
+      "networks": "(2:DLR,Crossrail)",
+      "tfl_nlcid": "573"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.0693845, 51.4902972]
+    }
+  }]
+}
