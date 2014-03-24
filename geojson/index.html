@@ -13,10 +13,13 @@
   </head>
   <body>
         <div id="map-canvas"></div>
-        <div id="data_window" style="display: none; background-color: white; border: 1px solid black; bottom: 30px; height: 50px; padding: 10px; position: absolute; left: 30px; font-family: 'Open Sans', sans-serif; font-size: 40px;"></div>
+        <div id="data_window" style="display: none; background-color: white; border: 1px solid black; bottom: 30px; height: 50px; padding: 10px; position: absolute; right: 30px; font-family: 'Open Sans', sans-serif; font-size: 40px;"></div>
 
 
         <script type="text/javascript">
+          var map;
+
+
           function initialize() {
             var mapOptions = {
                zoom: 10,
@@ -26,7 +29,10 @@
             map.data.loadGeoJson('./data/tfl_lines.json');
             //map.data.loadGeoJson('./data/tfl_stations.json');
 
-            map.data.setStyle(function(feature) {
+            allColors(map, 0.8);
+
+            function allColors(map, opacity){
+              map.data.setStyle(function(feature) {
               var lineColor, strokeOp;
 
               if (!feature.getProperty('color')) {
@@ -38,19 +44,25 @@
               }
 
               console.log( feature.getProperty('lines')[0].name + " || " + feature.getProperty('lines')[0].colour);
-              lineColor = feature.getProperty('lines')[0].colour;
               return {
                 strokeColor: lineColor, //<-- missing comma
+                strokeOpacity: opacity,
                 strokeWeight: 3
               };
             });
+            }
 
             map.data.addListener('mouseover', function(event) {
-              event.feature.setProperty('color', true);
+              map.data.revertStyle();
+              //event.feature.setProperty('color', true);
               var lineColor = event.feature.getProperty('lines')[0].colour;
-
+              map.data.overrideStyle(event.feature, {strokeColor: lineColor, strokeOpacity: 1.0, strokeWeight: 5 });
               document.getElementById('data_window').style.display = "initial";
               document.getElementById('data_window').innerHTML = "<span style='color: "+lineColor+"'>" + event.feature.getProperty('lines')[0].name + "</span>";
+            });
+
+            map.data.addListener('mouseout', function(event) {
+              map.data.revertStyle();
             });
 
           }
